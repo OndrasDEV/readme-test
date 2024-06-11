@@ -2,4 +2,4 @@
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont;]{x0020}$}
